@@ -147,5 +147,6 @@ Cloudflare Pages에 배포됩니다.
 
 - Git push 시 자동 빌드 및 배포
 - SPA 라우팅을 위한 `public/_redirects` 파일 포함
+- API 프록시: `functions/api/[[path]].ts` (Cloudflare Pages Function)
 - 빌드 명령어: `npm run build`
 - 빌드 출력 디렉토리: `dist/`
